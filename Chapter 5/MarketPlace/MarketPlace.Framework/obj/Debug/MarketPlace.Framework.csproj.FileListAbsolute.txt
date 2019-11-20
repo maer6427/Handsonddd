@@ -1,0 +1,5 @@
+C:\Users\maer6\Documents\DDDMarketPlace\MarketPlace\MarketPlace.Framework\bin\Debug\MarketPlace.Framework.dll
+C:\Users\maer6\Documents\DDDMarketPlace\MarketPlace\MarketPlace.Framework\bin\Debug\MarketPlace.Framework.pdb
+C:\Users\maer6\Documents\DDDMarketPlace\MarketPlace\MarketPlace.Framework\obj\Debug\MarketPlace.Framework.csprojAssemblyReference.cache
+C:\Users\maer6\Documents\DDDMarketPlace\MarketPlace\MarketPlace.Framework\obj\Debug\MarketPlace.Framework.dll
+C:\Users\maer6\Documents\DDDMarketPlace\MarketPlace\MarketPlace.Framework\obj\Debug\MarketPlace.Framework.pdb
